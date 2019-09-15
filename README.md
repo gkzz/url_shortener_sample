@@ -1,9 +1,12 @@
 # url_shortener_sample
 
-<img src="/src/demo.gif" alt="demo" style="max-width:100%;">
-
 This repository contains all the code examples from the contents as bellow:
 [Build a Serverless, Private URL Shortener](https://aws.amazon.com/blogs/compute/build-a-serverless-private-url-shortener/)
+
+
+# Demo
+
+<img src="/src/demo.gif" alt="demo" style="max-width:100%;">
 
 
 # Table of Contents
@@ -55,10 +58,10 @@ This repository contains all the code examples from the contents as bellow:
 <img src="/src/url_shortener_completed2.png" alt="connecturl" style="max-width:100%;">
 
 
-
 ### Optional
 - Enter a monitoring time parameter (e.g. 7)
 <img src="/src/url_shortener4.png" alt="how_to_setup4" style="max-width:100%;">
+
 
 ## How to check if your S3BucketName is unique, or not
 - Select S3 bucket
@@ -70,6 +73,7 @@ This repository contains all the code examples from the contents as bellow:
   "Bucket name must not end with dash or period"
 
 <img src="/src/url_shortener_s3_name.png" alt="check_s3_name" style="max-width:100%;">
+
 
 # Notes
 being prepared.
